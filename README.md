@@ -1,9 +1,11 @@
 # F-ck Avgle's AntiAdblock
-The intrusive ads on avgle.com (NSFW) are intolerable, especially on low/mid-end devices.
+The intrusive ads on avgle.com (NSFW) are intolerable, especially on low/mid-end devices. The script provides 2 key features:
+* Ad-blocking on avgle.com
+* Display of direct links to videos. Tip: the 'Download' button! :)
 
-Patches will be made until Avgle reverses its decision! Please share.
+Patches will be made until Avgle reverses its decision. Please share and let our voices be heard.
 
-*Note: Effort in releasing patches will be gradually reduced as I now have a new job. Patches will be commited only when donation target (0.02 Bitcoin) is reached:*
+#### Note: Effort in releasing patches will be gradually reduced due to work commitments. From now on, patches will be released only when donation target (0.02 Bitcoin) is reached: ####
 
 [1He9w4Qt2MSc5qjucHfBDXQzEAT866pmd4](https://blockchain.info/address/1He9w4Qt2MSc5qjucHfBDXQzEAT866pmd4)
 
